@@ -1,39 +1,28 @@
-<h1 align="center">Harrys</h1>
-<h3 align="center">Full Stack Dev | IA & ML Enthusiast | Artista Digital</h3>
+<h2 align="left">Olá 👋! My name is ... and I'm a ..., from ....</h2>
 
----
+###
 
-## 🧠 Sobre mim
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
+  <img width="53" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
+</div>
 
-- 🔭 Buscando desafios e novos projetos
-- ⚡ Trabalho com desenvolvimento Full-Stack e soluções criativas com IA
-- 🎨 Além da programação, também atuo como artista e designer
+###
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="105" height="35" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="105" height="35" alt="linkedin logo"  />
+</div>
 
-## 🚀 Tech Stack
-
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap
-- **Backend:** Node.js, Python, FastAPI
-- **AI/ML:** TensorFlow, Keras, OpenCV, MediaPipe
-- **Database:** MySQL, MongoDB
-- **Ferramentas:** Git, GitHub, Figma, VSCode
-
----
-
-## 📈 Github Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=graywhite)
-
----
-
-## 🌐 Contato
-
-- 🔗 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN)
-- 📫 SEU_EMAIL@gmail.com
-- 🎨 [Instagram](https://instagram.com/SEU_INSTAGRAM)
-
----
-
-<p align="center"><em>"Simplicidade é o ápice da sofisticação."</em></p>
+###
