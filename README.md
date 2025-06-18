@@ -1,28 +1,50 @@
-<h2 align="left">Olá 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="center">🦾 Harrys | Full Stack & AI Dev</h1>
 
-###
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, IA, arte digital e design. Entusiasta em projetos que unem criatividade e tecnologia.
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="37" alt="react logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="53" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🧠 Sobre mim
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="105" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="105" height="35" alt="linkedin logo"  />
-</div>
+- 💻 Full Stack Developer | IA & Machine Learning
+- 🎨 Artista Visual & Designer Digital
+- 🔥 Buscando sempre transformar ideias em código e soluções inteligentes
 
-###
+---
+
+## 💡 Skills
+
+| Frontend | Backend | Data/AI | Tools |
+| -------- | ------- | ------- | ----- |
+| React    | Node.js | TensorFlow | Git |
+| JavaScript | Python | Keras | GitHub |
+| HTML/CSS | FastAPI | OpenCV | Figma |
+| Bootstrap | | Pandas | VSCode |
+
+---
+
+## 🔥 Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple" />
+  <img src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=midnight-purple" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⚙️ Sempre evoluindo, sempre aprendendo.
+</p>
