@@ -33,8 +33,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&border_color=FF00D4" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=tokyonight&border=FF00D4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioHarrys&show_icons=true&theme=tokyonight&border_color=FF00D4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=CaioHarrys&theme=tokyonight&border=FF00D4" />
 </div>
 
 ---
@@ -42,9 +42,9 @@
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/-Gmail-FF00D4?style=for-the-badge&logo=gmail&logoColor=black"/></a>
-  <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-00FFF7?style=for-the-badge&logo=instagram&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/caio-ferraz-a6662a216/"><img src="https://img.shields.io/badge/-LinkedIn-00FFF7?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:caiocompanyhc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF00D4?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <!-- <a href="https://instagram.com/SEU_INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-00FFF7?style=for-the-badge&logo=instagram&logoColor=black"/></a> -->
 </p>
 
 ---
