@@ -8,7 +8,7 @@
 <div style="text-center">
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: space-evenly; align-items: center;">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=CaioHarrys&theme=merko&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
     <img src="https://nirzak-streak-stats.vercel.app/?user=CaioHarrys&theme=merko&hide_border=false" alt="GitHub Streak Stats">
 </div>
