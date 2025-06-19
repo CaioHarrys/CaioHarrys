@@ -22,7 +22,7 @@
 <div style="display: flex; justify-content: space-evenly; align-items: center; flex-wrap: wrap;">
 
 <div style="text-align: center;">
-<h2>🏆 Troféus</h2>
+<h2 align="center">🏆 Troféus</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=CaioHarrys&theme=blue_navy&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
 </div>
 
