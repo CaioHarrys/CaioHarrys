@@ -7,6 +7,8 @@
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=CaioHarrys&theme=merko&hide_border=false" alt="GitHub Streak Stats">
 </div>
+
+    
 # Olá! Sou o Caio.
 
 Seja bem-vindo(a) ao meu mundo, onde a tecnologia é a base de tudo.
