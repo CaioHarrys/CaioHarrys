@@ -7,3 +7,31 @@
 <div align="center">
     <img src="https://nirzak-streak-stats.vercel.app/?user=CaioHarrys&theme=merko&hide_border=false" alt="GitHub Streak Stats">
 </div>
+# Olá! Sou o Caio.
+
+Seja bem-vindo(a) ao meu mundo, onde a tecnologia é a base de tudo.
+
+---
+
+### Minhas Habilidades
+
+Sou um desenvolvedor **Full Stack** apaixonado por construir soluções completas, do **Front-end** ao **Back-end**. Minha jornada é impulsionada pela busca constante por inovações e a aplicação prática de tecnologias de ponta.
+
+---
+
+### Áreas de Especialização
+
+* **Inteligência Artificial (IA):** Explorando as possibilidades de **Python**, **Machine Learning** e **LLMs** para criar sistemas mais inteligentes e eficientes.
+* **Infraestrutura e Segurança:** Minha base sólida em sistemas como **Red Hat** e **Kali Linux** me permite construir soluções robustas, seguras e de alta performance.
+
+---
+
+### Minha Missão
+
+Resolver problemas complexos de uma forma que não só funcione, mas que seja segura, eficiente e inovadora.
+
+---
+
+### Fale Comigo
+
+Fique à vontade para explorar meus projetos e ver um pouco do que ando criando por aí!
