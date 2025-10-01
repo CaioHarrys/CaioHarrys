@@ -9,7 +9,7 @@
 </div>
 
     
-## Olá! Sou o Caio.
+## Olá! Sou o Caio
 
 Seja bem-vindo(a) ao meu mundo, onde a tecnologia é a base de tudo.
 
